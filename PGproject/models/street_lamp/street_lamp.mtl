@@ -1,0 +1,29 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl light
+Tr 0.9256060513583096
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.6
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0 0
+Ke 1 1 1
+
+newmtl lambert2
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.21378788803562973
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd lambert2.png
+map_Pm metalnessMap2.png
+map_Pr metalnessMap2.png
+norm normalMap2.png
+map_Ka metalnessMap2.png
